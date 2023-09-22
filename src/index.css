@@ -1,0 +1,24 @@
+/* common css start */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  line-height: 0.8;
+}
+/* common css End */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

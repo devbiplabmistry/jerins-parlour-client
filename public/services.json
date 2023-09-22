@@ -1,0 +1,35 @@
+{
+    "services": [
+      {
+        "serviceName": "Anti Face Treatment",
+        "price": "$199",
+        "description": "Revitalize your skin with our anti-aging and rejuvenating face treatment. Includes deep cleansing, exfoliation, and a customized mask."
+      },
+      {
+        "serviceName": "Hair Color and Style",
+        "price": "$99",
+        "description": "Transform your look with our professional hair coloring and styling services. Choose from a variety of colors and styles."
+      },
+      {
+        "serviceName": "Skin Care Treatment",
+        "price": "$299",
+        "description": "Indulge in a luxurious skin care treatment that includes deep cleansing, exfoliation, and a soothing facial massage for radiant skin."
+      },
+      {
+        "serviceName": "Nail Art",
+        "price": "$49",
+        "description": "Enhance the beauty of your nails with our creative nail art designs. Choose from a wide range of colors and patterns."
+      },
+      {
+        "serviceName": "Makeup Application",
+        "price": "$79",
+        "description": "Get ready for any special occasion with our professional makeup application service. We'll make you look stunning."
+      },
+      {
+        "serviceName": "Waxing and Hair Removal",
+        "price": "$59",
+        "description": "Achieve smooth and hair-free skin with our waxing and hair removal services. Say goodbye to unwanted hair."
+      }
+    ]
+  }
+  
