@@ -7,6 +7,7 @@ export default {
   theme: {
     fontFamily: {
       poppins: ['Poppins', 'sans'],
+      Montserrat: ['Montserrat', 'sans-serif'],
     },
   },
 
