@@ -7,7 +7,7 @@ const Services = () => {
     const [services] =useServices([])
     const [allService,setAllService]=useState(3)
     const handleAllService =()=>{
-        setAllService(services.services.length)
+        setAllService(services.length)
     }
     return (
         <div className="mx-auto text-center pt-24 pb-16">
@@ -15,7 +15,7 @@ const Services = () => {
 
             <div className="service-wrapper mx-auto text-center grid grid-cols-3 gap-5">
            {
-             services.services?.slice(0,allService).map(item=><div key={item._id} className="card w-96 bg-base-100 shadow-xl">
+             services.slice(0,allService).map(item=><div key={item.id} className="card w-96 bg-base-100 shadow-xl">
              <figure className="w-16 mx-auto mt-9 mb-4"><img src="/src/assets/icons/Group 1372.png" alt="ladies" /></figure>
              <div className="card-body">
                  <h2 className=" font-poppins font-semibold  text-xl text-[#111430]">{item.serviceName}</h2>

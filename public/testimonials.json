@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "location": "New York, NY",
+    "testimonial": "I had an amazing experience at Glowing Beauty Spa! The facial and massage combo left me feeling completely relaxed and rejuvenated. The staff is professional and friendly.",
+    "image": "../src/assets/images/Ellipse 90.png"
+  },
+  {
+    "id": 2,
+    "name": "Lisa Anderson",
+    "location": "Los Angeles, CA",
+    "testimonial": "Radiant Beauty Lounge is my go-to place for beauty treatments. The anti-aging facial worked wonders on my skin, and I left with a glowing complexion.",
+    "image": "../src/assets/images/Ellipse 91.png"
+  },
+  {
+    "id": 3,
+    "name": "Emily Davis",
+    "location": "Chicago, IL",
+    "testimonial": "Elegance Beauty Studio is the best in town! I loved their spa retreat package—it was like a mini-vacation. I highly recommend their services.",
+    "image": "../src/assets/images/Ellipse 92.png"
+  },
+  {
+    "id": 4,
+    "name": "Olivia Roberts",
+    "location": "Miami, FL",
+    "testimonial": "Chic Beauty Haven is a hidden gem! Their custom makeup artistry made me look and feel glamorous for my special event.",
+    "image": "../src/assets/images/Ellipse 90.png"
+  },
+  {
+    "id": 5,
+    "name": "Sophia Miller",
+    "location": "Phoenix, AZ",
+    "testimonial": "Pure Beauty Retreat's bridal makeup package was perfect for my wedding day. The makeup artist did an incredible job, and I felt like a princess.",
+    "image": "../src/assets/images/Ellipse 91.png"
+  },
+  {
+    "id": 6,
+    "name": "Jessica Wilson",
+    "location": "Las Vegas, NV",
+    "testimonial": "Blissful Beauty Oasis lives up to its name. The hot stone massage melted away my stress, and the hair extensions added a touch of luxury to my look.",
+    "image": "../src/assets/images/Ellipse 91.png"
+  },
+  {
+    "id": 7,
+    "name": "Ella Martinez",
+    "location": "San Francisco, CA",
+    "testimonial": "Divine Beauty Retreat's microdermabrasion treatment made my skin smoother and more radiant. I'm thrilled with the results!",
+    "image": "../src/assets/images/Ellipse 92.png"
+  },
+  {
+    "id": 8,
+    "name": "Ava Clark",
+    "location": "Seattle, WA",
+    "testimonial": "I always feel pampered at Serenity Beauty Lounge. Their hair straightening service gave me the sleek and stylish look I wanted.",
+    "image": "../src/assets/images/Ellipse 90.png"
+  },
+  {
+    "id": 9,
+    "name": "Sophie Turner",
+    "location": "Dallas, TX",
+    "testimonial": "Tranquility Beauty Spa exceeded my expectations. The manicure and pedicure left my nails looking fabulous, and the atmosphere was relaxing.",
+    "image": "../src/assets/images/Ellipse 91.png"
+  },
+  {
+    "id": 10,
+    "name": "Mia Johnson",
+    "location": "Houston, TX",
+    "testimonial": "Eternal Beauty Studio is my beauty sanctuary. Their gel nail extensions are not only beautiful but also long-lasting. I'm a loyal customer!",
+    "image": "../src/assets/images/Ellipse 90.png"
+  }
+]
