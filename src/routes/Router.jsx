@@ -3,6 +3,9 @@ import Home from "../pages/home/home/Home";
 import Main from "../layouts/Main";
 import Login from "../pages/login/Login";
 import SignUp from "../pages/signup/SignUp";
+import Dashboard from "../pages/dashboard/Dashboard";
+import Book from "../pages/customer/book/Book";
+import Review from "../pages/customer/review/Review";
 
 
 export const router = createBrowserRouter([
@@ -24,5 +27,24 @@ export const router = createBrowserRouter([
             }
         ]
     },
+    {
+        path: "/dashboard",
+        element:<Dashboard></Dashboard>,
+        children:[
+            {
+                path:"/dashboard/book",
+                element:<Book></Book>
+            },
+            {
+                path:"/dashboard/booking-list",
+                element:<div>heoooooooooooo</div>
+            },
+            {
+                path:"/dashboard/review",
+                element:<Review></Review>
+            },
+        ]
+    
+    }
    
 ]);
