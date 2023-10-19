@@ -8,6 +8,7 @@ import Book from "../pages/customer/book/Book";
 import Review from "../pages/customer/review/Review";
 import ServiceList from "../pages/customer/serviceList/ServiceList";
 import OrderList from "../pages/admin/orderList/OrderList";
+import Addservice from "../pages/admin/addService/Addservice";
 
 
 export const router = createBrowserRouter([
@@ -48,6 +49,10 @@ export const router = createBrowserRouter([
             {
                 path:"/dashboard/orderlist",
                 element:<OrderList></OrderList>
+            },
+            {
+                path:"/dashboard/addservice",
+                element:<Addservice></Addservice>
             },
         ]
     

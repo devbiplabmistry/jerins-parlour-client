@@ -13,6 +13,10 @@ const OrderList = () => {
             })
     }, [])
 
+    const handleStatus = () => {
+
+    }
+
     return (
         <div className="bg-orange-50 w-full pt-12 ps-10 pb-40">
             <nav className="flex justify-around">
@@ -36,15 +40,15 @@ const OrderList = () => {
                             </tr>
                         </thead>
                         <tbody>
-                            {bookings.map((item,index)=> <tr key={item._id}>
-                                <th className="font-poppins text-base font-normal text-[#000]">{index+1}</th>
+                            {bookings.map((item, index) => <tr key={item._id}>
+                                <th className="font-poppins text-base font-normal text-[#000]">{index + 1}</th>
                                 <td className="font-poppins text-base font-normal text-[#000]">{item?.displayName}</td>
                                 <td className="font-poppins text-base font-normal text-[#000]">{item?.email}</td>
                                 <td className="font-poppins text-base font-normal text-[#000]">{item?.serviceName}</td>
-                                <td className="font-poppins text-base font-normal text-[red]">{item?.status}</td>
+                                <td className="font-poppins text-base font-normal text-[red]"><button onClick={handleStatus}>{item?.status}</button></td>
 
                             </tr>)}
-                           
+
                         </tbody>
                     </table>
                 </div>
