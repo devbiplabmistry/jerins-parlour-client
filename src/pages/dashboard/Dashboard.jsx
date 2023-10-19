@@ -51,7 +51,7 @@ const Dashboard = () => {
                             </NavLink>
                         </li>
                         <li className="font-poppins font-medium text-base text-[#878787]">
-                            <NavLink to="/dashboard/review" activeClassName="active-link">
+                            <NavLink to="/dashboard/admin" activeClassName="active-link">
                                 <BsFillPersonPlusFill /> Make Admin
                             </NavLink>
                         </li>
