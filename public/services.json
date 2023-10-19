@@ -1,114 +1,95 @@
 [
   {
-    "id": 1,
     "serviceName": "Anti Face Treatment",
     "price": "$199",
     "description": "Revitalize your skin with our anti-aging and rejuvenating face treatment. Includes deep cleansing, exfoliation, and a customized mask."
   },
   {
-    "id": 2,
     "serviceName": "Hair Color and Style",
     "price": "$99",
     "description": "Transform your look with our professional hair coloring and styling services. Choose from a variety of colors and styles."
   },
   {
-    "id": 3,
     "serviceName": "Skin Care Treatment",
     "price": "$299",
     "description": "Indulge in a luxurious skin care treatment that includes deep cleansing, exfoliation, and a soothing facial massage for radiant skin."
   },
   {
-    "id": 4,
     "serviceName": "Nail Art",
     "price": "$49",
     "description": "Enhance the beauty of your nails with our creative nail art designs. Choose from a wide range of colors and patterns."
   },
   {
-    "id": 5,
     "serviceName": "Makeup Application",
     "price": "$79",
     "description": "Get ready for any special occasion with our professional makeup application service. We'll make you look stunning."
   },
   {
-    "id": 6,
     "serviceName": "Waxing and Hair Removal",
     "price": "$59",
     "description": "Achieve smooth and hair-free skin with our waxing and hair removal services. Say goodbye to unwanted hair."
   },
   {
-    "id": 7,
     "serviceName": "Eyebrow Shaping",
     "price": "$29",
     "description": "Define your look with our expert eyebrow shaping services. We'll help you achieve the perfect arch."
   },
   {
-    "id": 8,
     "serviceName": "Manicure",
     "price": "$39",
     "description": "Treat your hands to a rejuvenating manicure. Includes nail shaping, cuticle care, and a relaxing hand massage."
   },
   {
-    "id": 9,
     "serviceName": "Pedicure",
     "price": "$49",
     "description": "Relax and pamper your feet with our soothing pedicure. Includes nail trimming, callus removal, and foot massage."
   },
   {
-    "id": 10,
     "serviceName": "Body Massage",
     "price": "$129",
     "description": "Unwind and de-stress with our therapeutic body massage. Choose from various massage techniques for ultimate relaxation."
   },
   {
-    "id": 11,
     "serviceName": "Eyelash Extensions",
     "price": "$89",
     "description": "Add drama to your eyes with our eyelash extension service. Achieve long, luscious lashes that last for weeks."
   },
   {
-    "id": 12,
     "serviceName": "Bridal Package",
     "price": "$499",
     "description": "Get ready for your big day with our comprehensive bridal package. Includes hair, makeup, and spa treatments."
   },
   {
-    "id": 13,
     "serviceName": "Facial Cleansing",
     "price": "$79",
     "description": "Treat your skin to a deep-cleansing facial. Say goodbye to impurities and hello to a radiant complexion."
   },
   {
-    "id": 14,
     "serviceName": "Hair Extensions",
     "price": "$149",
     "description": "Transform your hair with our high-quality extensions. Choose from a variety of lengths and styles."
   },
   {
-    "id": 15,
     "serviceName": "Laser Hair Removal",
     "price": "$199",
     "description": "Achieve permanent hair reduction with our advanced laser hair removal treatments. Safe and effective."
   },
   {
-    "id": 16,
     "serviceName": "Henna Tattoo",
     "price": "$39",
     "description": "Add a touch of art to your skin with our beautiful henna tattoo designs. Perfect for special occasions."
   },
   {
-    "id": 17,
     "serviceName": "Aromatherapy",
     "price": "$69",
     "description": "Experience relaxation and balance with our aromatherapy treatments. Soothe your senses and rejuvenate your mind."
   },
   {
-    "id": 18,
     "serviceName": "Teeth Whitening",
     "price": "$129",
     "description": "Brighten your smile with our professional teeth whitening services. Get a dazzling, confident grin."
   },
   {
-    "id": 19,
     "serviceName": "Brow and Lash Tinting",
     "price": "$49",
     "description": "Enhance your natural beauty with our brow and lash tinting services. Define your features effortlessly."

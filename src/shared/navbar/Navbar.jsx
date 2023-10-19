@@ -14,7 +14,7 @@ const Navbar = () => {
         <li className='font-poppins font-semibold text-sm text-[#474747]'><Link>Our Portfolio</Link></li>
         <li className='font-poppins font-semibold text-sm text-[#474747]'><Link>Our Team</Link></li>
         <li className='font-poppins font-semibold text-sm text-[#474747]'><Link>Contact Us</Link></li>
-        <button className='font-poppins font-semibold text-sm py-2 px-10 bg-[#F63E7B] rounded-md text-[#FFF]'><Link>Login</Link></button>
+        <button className='font-poppins font-semibold text-sm py-2 px-10 bg-[#F63E7B] rounded-md text-[#FFF]'><Link to="/login">Login</Link></button>
     </div>
     return (
         <div>
