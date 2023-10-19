@@ -41,7 +41,7 @@ const Dashboard = () => {
                     <label htmlFor="my-drawer-2" className="drawer-overlay"></label>
                     <ul className="menu p-4 w-80 min-h-full  text-base-content">
                         <li className="font-poppins font-medium text-base text-[#878787]">
-                            <NavLink to="/dashboard/book" activeClassName="active-link">
+                            <NavLink to="/dashboard/orderList" activeClassName="active-link">
                                 <AiOutlineShoppingCart /> Order List
                             </NavLink>
                         </li>

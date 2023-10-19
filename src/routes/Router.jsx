@@ -7,6 +7,7 @@ import Dashboard from "../pages/dashboard/Dashboard";
 import Book from "../pages/customer/book/Book";
 import Review from "../pages/customer/review/Review";
 import ServiceList from "../pages/customer/serviceList/ServiceList";
+import OrderList from "../pages/admin/orderList/OrderList";
 
 
 export const router = createBrowserRouter([
@@ -43,6 +44,10 @@ export const router = createBrowserRouter([
             {
                 path:"/dashboard/review",
                 element:<Review></Review>
+            },
+            {
+                path:"/dashboard/orderlist",
+                element:<OrderList></OrderList>
             },
         ]
     
