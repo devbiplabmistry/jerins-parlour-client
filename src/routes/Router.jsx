@@ -10,6 +10,7 @@ import ServiceList from "../pages/customer/serviceList/ServiceList";
 import OrderList from "../pages/admin/orderList/OrderList";
 import Addservice from "../pages/admin/addService/Addservice";
 import MakeAdmin from "../pages/admin/makeAdmin/MakeAdmin";
+import ManageServices from "../pages/admin/manageSerevice/ManageServices";
 
 
 export const router = createBrowserRouter([
@@ -58,6 +59,10 @@ export const router = createBrowserRouter([
             {
                 path:"/dashboard/admin",
                 element:<MakeAdmin></MakeAdmin>
+            },
+            {
+                path:"/dashboard/manageService",
+                element:<ManageServices></ManageServices>
             },
         ]
     

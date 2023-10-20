@@ -56,7 +56,7 @@ const Dashboard = () => {
                             </NavLink>
                         </li>
                         <li className="font-poppins font-medium text-base text-[#878787]">
-                            <NavLink to="/dashboard/review" activeClassName="active-link">
+                            <NavLink to="/dashboard/manageService" activeClassName="active-link">
                                 <MdOutlineManageSearch /> Manage Service
                             </NavLink>
                         </li>
